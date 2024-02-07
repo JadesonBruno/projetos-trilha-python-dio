@@ -1,5 +1,7 @@
 # Desafios de Código em Python da DIO
 
+[![License](https://img.shields.io/npm/l/react)](https://github.com/JadesonBruno/projetos-trilha-python-dio/blob/main/LICENSE)
+
 ## Sobre o Repositório
 
 Este repositório tem o propósito de armazenar os projetos desenvolvidos no âmbito do módulo "Dominando o Python para Ciência de Dados" do Bootcamp "Potência Tech powered by iFood | Ciência de Dados" da [DIO](https://www.dio.me/), sob a instrução do professor  [Guilherme Arthur de Carvalho](https://www.linkedin.com/in/decarvalhogui/).
